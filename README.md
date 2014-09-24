@@ -1,7 +1,7 @@
 geiger_tube
 ===========
 
-Code for the cooking-hacks.com's radiation detection board adapted to the Raspberry Pi.
+Code for the cooking-hacks.com's radiation detection board adapted to the Raspberry Pi (console output).
 
 Code from
 
